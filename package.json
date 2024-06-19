@@ -1,0 +1,22 @@
+{
+  "name": "throttle",
+  "version": "1.0.0",
+  "description": "throttle function",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenr92/debounce.git"
+  },
+  "author": "Ruben Reina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubenr92/debounce/issues"
+  },
+  "homepage": "https://github.com/rubenr92/debounce#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  }
+}
